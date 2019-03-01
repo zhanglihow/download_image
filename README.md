@@ -26,7 +26,7 @@ google搜索关键字首页默认100张图片，要抓取更多的图片，就�
 ![](https://github.com/zhanglihow/download_image/blob/master/readme_image/1.jpg?raw=true)
 								
 
-2),在chrome官网找到与本机的google浏览器版本号一致的chromedriver 
+2),在 [chrome官网](http://chromedriver.chromium.org/downloads) 找到与本机的google浏览器版本号一致的chromedriver 
 
 ![](https://github.com/zhanglihow/download_image/blob/master/readme_image/2.jpg?raw=true)
 
