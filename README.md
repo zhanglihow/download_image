@@ -16,10 +16,10 @@ pip install requests
 pip install google_images_download
 ```
 
-#####  2，图片数量
+##### 2，图片数量
 google搜索关键字首页默认100张图片，要抓取更多的图片，就得增加翻页功能。此项目已经实现了翻页功能，只需要使用者同时安装Selenium库chromedriver，代码里面有配置。
 
-#####下载chromedriver:
+##### 下载chromedriver:
 
 1),首先要查看自己电脑上安装的google浏览器版本号
 
